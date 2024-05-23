@@ -1,0 +1,19 @@
+{
+    "FAQ": [
+        {
+            "id": "1",
+            "question": "How are you?",
+            "answer": "I am fine"
+        }
+    ],
+
+    "about": [
+        {
+            "id": "1",
+            "fullname": "Saidhusein Yousefi Farid",
+            "age": "19",
+            "gender": "male",
+            "profession": "student"
+        }
+    ]
+}
